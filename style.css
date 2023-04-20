@@ -1,0 +1,197 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.con div{
+    line-height: 69px;
+    
+    
+}
+.serchbr{
+    padding: 20px 0 0 0 !important;
+    
+}
+.imp{
+    height: 37px;
+    width: 153px;
+
+}
+#form{
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+#form h1{
+    text-align: center;
+    color: green;
+}
+
+
+.iinput{
+   
+    font-family: 'Saira Condensed', sans-serif !important;
+    color: black !important ;
+
+    
+
+}
+
+.banner
+{
+    padding-top: 140px;
+}
+  
+.butt{
+    width: 20px;
+}
+
+
+
+li{
+    display: inline;
+    list-style: none;
+    padding: 20px;
+    
+}
+ul{
+    
+    line-height: 70px;
+}
+li a{
+    color: black;
+    text-decoration: none;
+}
+.fom{
+    width: 600px !important;
+    padding: 50px 0;
+
+}
+.liess{
+    line-height: 90px;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Saira Condensed', sans-serif;
+}
+.hover{
+    position: relative;
+
+}
+.hover:hover
+{
+    top: -1%;
+    transition: all ease 0.3s;
+}
+.center{
+    text-align: center;
+    color: rgb(8, 8, 14);
+    justify-content: center;
+   margin-top: 20px;
+    
+}
+.center h1{
+    font-size:70px;
+}
+.center button{
+    width: 200px;
+    background-color: black;
+    color: antiquewhite;
+    height: 50px;
+    font-family: 'Saira Condensed', sans-serif;
+   
+}
+.pf p{
+    color: aliceblue;
+    padding-top: 20px;
+    font-family: 'Saira Condensed', sans-serif;
+
+    
+}
+
+
+
+
+@media (max-width: 370px){
+    .banner
+    {
+        padding-top: 50px;
+    }
+    #form{
+        width: 100%;
+        padding: 20px 15px;
+    
+    }
+    li{
+        
+        padding: 10px;
+        
+    }
+    .imgge img{
+        width: 100%;
+    }
+    .pf p{
+         
+        width: 100%;
+        text-align: center;
+    
+        
+    }
+    
+}
+.foot li{
+    color: antiquewhite;
+    padding: 2px;
+    font-family: 'Saira Condensed', sans-serif;
+}
+.mmme img{
+    width: 100%;
+}
+
+@media (min-width: 370px) and (max-width: 767px) {
+    .banner
+    {
+        padding-top: 50px;
+    }
+    
+    .mediaimg {
+        margin-top: 20px;
+      }
+    form input{
+        width: 100%;
+    }  
+    #form{
+        width: 100%;
+        padding: 20px 15px;
+    
+    }
+    .pf p{
+         
+        width: 100%;
+        text-align: center;
+    
+        
+    }
+
+    
+}
+
+@media (min-width: 767px) and (max-width: 991px) {
+    .banner
+    {
+        padding-top: 50px;
+    }
+    
+}
+@media (min-width: 991px) and (max-width: 1200px) {
+    .iigg img{
+        width: 100%;
+    }
+
+}
+@media (min-width: 1200px) and (max-width: 1400px){
+
+}
